@@ -1,0 +1,45 @@
+i.fab.fa-facebook-f,
+i.fab.fa-twitter {
+    color: black;
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+.banner-section {
+    background: url(image/banner.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    height: 50vh;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.introduction-section,
+.introduction-card {
+    padding: 100px 0px;
+}
+
+.introduction-body{
+    text-align: center;
+}
+
+.introduction-icon {
+    border:10px solid black;
+    background: steelblue;
+    margin: 0 auto;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+
+.introduction-icon i {
+    font-size: 40px;
+    position: absolute;
+    margin: 10px 0 0 10px;
+    color: white;
+}
