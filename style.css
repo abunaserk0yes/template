@@ -18,17 +18,19 @@ header {
     margin-top: 10%;
 }
 
-.introduction-section,
-.introduction-card {
+.introduction-section {
     padding: 100px 0px;
 }
 
-.introduction-body{
+.introduction-body {
     text-align: center;
+}
+.introduction-card{
+    padding-top:100px;
 }
 
 .introduction-icon {
-    border:10px solid black;
+    border: 10px solid black;
     background: steelblue;
     margin: 0 auto;
     height: 80px;
@@ -42,4 +44,15 @@ header {
     position: absolute;
     margin: 10px 0 0 10px;
     color: white;
+}
+
+.service-card-image {
+    width: 300px;
+    height: 250px;
+}
+
+.my-progress {
+    background-color: pink;
+    min-height: 30px;
+    margin-top: 20px;
 }
