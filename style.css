@@ -4,7 +4,10 @@ i.fab.fa-twitter {
     padding-left: 10px;
     font-size: 15px;
 }
-
+q{
+    display: block;
+    text-align: center;;
+}
 .banner-section {
     background: url(image/banner.jpg);
     background-position: center center;
@@ -55,4 +58,14 @@ header {
     background-color: pink;
     min-height: 30px;
     margin-top: 20px;
+}
+.team-image{
+    background: #ebe9e9;
+    display: block;
+    width:250px;
+    height:250px;
+    border-radius: 50%;
+}
+.calling-section{
+    background-color: #d4e2f3;
 }
